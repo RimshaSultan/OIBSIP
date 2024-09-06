@@ -1,0 +1,1 @@
+These are 3 data science projects, namely Iris Flower Classification, Unemployment Rate Analysis during COVID-19, and Sales Prediction, that I have completed as part of my online internship at Oasis Infobyte. All 3 of the projects use Python language and were executed in Jupyter Notebook. 
